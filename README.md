@@ -1,7 +1,6 @@
 # SPCar
 Descrição:
-
-Este projeto, denominado SPCar, é uma aplicação Java simples que permite calcular o custo de locação de veículos com base no modelo do carro, valor da diária, dias de locação e quantidade de quilômetros percorridos. O programa interage com o usuário por meio de entrada de dados e fornece um valor total estimado para a locação.
+Este projeto, criado em colaboração com meu técnico de desenvolvimento de sistemas, apresenta o SPCar, uma calculadora em Java que permite estimar o custo de locação de veículos. O programa interage com o usuário para coletar informações como modelo do carro, valor da diária, dias de locação e quilometragem percorrida. Com base nesses dados, calcula o custo total, aplicando uma taxa de R$0,20 por quilômetro. A calculadora fornece ao usuário o valor total da locação, simplificando o processo de cálculo e proporcionando uma estimativa clara e precisa. Este projeto serve como uma valiosa ferramenta de aprendizado em programação Java e pode ser usado como base para futuros desenvolvimentos na área.
 
 Funcionalidades:
 
